@@ -1,5 +1,5 @@
 # Inteligência Artificial e Robótica
 
-Grupo:
- -Guilherme Marcato Mendes Justiça
+Grupo:<br>
+ -Guilherme Marcato Mendes Justiça <br>
  -Paulo Vinicius Araújo Feitosa
