@@ -2,4 +2,4 @@
 
 Grupo:<br>
  -Guilherme Marcato Mendes Justiça <br>
- -Paulo Vinicius AraUjo Feitosa
+ -Paulo Vinicius Araujo Feitosa
